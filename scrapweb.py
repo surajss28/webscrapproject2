@@ -1,3 +1,4 @@
+# In this code i have scrap the home page content.
 from bs4 import BeautifulSoup
 import requests
 import csv
